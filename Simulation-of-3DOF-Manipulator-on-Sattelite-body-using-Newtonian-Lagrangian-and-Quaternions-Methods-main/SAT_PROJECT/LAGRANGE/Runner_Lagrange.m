@@ -68,7 +68,7 @@ for i=1:length(t)
 end
 
 %% PLOTS
-%SAT_ANIMATION(t,a,b,c,L1,L2,L3,q1,q2,q3,q4,q5,q6,q7,q8,q9)
+SAT_ANIMATION(t,a,b,c,L1,L2,L3,q1,q2,q3,q4,q5,q6,q7,q8,q9)
 str='Lagrangian Method';
 nan = '~';
 plotter(str,t,q1,q2,q3,q4,q5,q6,q7,q8,q9,ER,LM_x,LM_y,LM_z,AM_x,AM_y,AM_z)

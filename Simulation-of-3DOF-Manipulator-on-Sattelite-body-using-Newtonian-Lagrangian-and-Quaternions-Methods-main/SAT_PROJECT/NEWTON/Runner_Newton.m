@@ -6,7 +6,7 @@ addpath('generate51');
 
 global a b c L1 L2 L3 Ms m1 m2 m3 Ixx Ixy Ixz Iyy Iyz Izz tav1 tav2 tav3 fX fY fZ
 
-P = SAT_PARAMETERS();
+%P = SAT_PARAMETERS();
 a=P.a; b=P.b; c=P.c;
 L1=P.L1; L2=P.L2; L3=P.L3;
 Ms=P.Ms; m1=P.m1; m2=P.m2; m3=P.m3;

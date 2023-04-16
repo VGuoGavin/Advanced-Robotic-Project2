@@ -116,7 +116,7 @@ Hg_LINK3_XYZ = (R36*R03).'*Hg_LINK3_x6y6z6 + m3*cross(rg_LINK3_XYZ,(R36*R03).'*v
 H_XYZ = Hsat_XYZ + Hg_LINK1_XYZ + Hg_LINK2_XYZ + Hg_LINK3_XYZ;
 
 %% matlabFunctions
-MFunc=matlabFunction(M,'File','generate11\Mfunc');
+MFunc=matlabFunction(M,'File','Mfunc');
 BFunc=matlabFunction(B,'File','generate11\Bfunc');
 EFunc=matlabFunction(E,'File','generate11\Efunc');
 PFunc=matlabFunction(P_XYZ,'file','generate11\Pfunc');
