@@ -1,0 +1,1 @@
+[DOF3_Arm, ArmInfo] = importrobot('DOF3_RRR');
