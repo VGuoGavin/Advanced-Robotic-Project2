@@ -1,0 +1,10 @@
+===================================
+Environment:
+MATLAB 2022B 
+
+Packages needed:
+Robotics system toolbox
+Simscape
+Simscape-Multibody
+
+===================================
