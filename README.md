@@ -1,28 +1,28 @@
 # NUS ME5402/EE5106 ADVANCED ROBOTICS 
 # RRR Surgery Robot Controlling and Modelling
 
-1. Kinematic part
+## 1. Kinematic part
 Directly run main.m file.  
 In main.m file, there are two parts, can run them separately or togather.
 All other functions have very detail explanation.
 Simulation results：
-
+<img  width = "300" height = "200" alt="1" align=center />
 ![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/542faaf1-dadb-48c7-b028-cd755ca8a61c)
 ![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/96fcb188-2699-42c4-b397-97ff44020691)
-
-3. Dynamic part
+</img>
+## 2. Dynamic part
 The files can be ran directly. The file can be used to derive NE equations and LE equation theoretically. All variables are subject to replace with real numerical value. 
 Comparation between N-E and L-E
-
+<img width = "300" height = "200" alt="1" align=center />
 ![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/ae911c5e-b1c4-462f-89bc-6172680ce7b5)
 ![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/0b62bce3-27d8-4f5f-bc70-dcbcbb73ee53)
 ![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/8335d854-98fa-4ef6-8e2a-66b848af5d4f)
+</img>
 
-
-5. Control part:
-6. 
+## 3. Control part:
+<img width = "300" height = "200" alt="1" align=center />
 ![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/f3f53e4f-af4a-4733-b642-f7a6e8064d05)
-
+</img>
 Step1: Run file Load_rigid_body_tree.m to get rigid body tree in workspace
 Step2: Run Simulink files.
 
