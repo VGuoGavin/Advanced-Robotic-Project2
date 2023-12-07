@@ -6,7 +6,7 @@ Directly run main.m file.
 In main.m file, there are two parts, can run them separately or togather.
 All other functions have very detail explanation.
 Simulation results：
-<img  src = '![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/542faaf1-dadb-48c7-b028-cd755ca8a61c)' width = "300" height = "200" alt="1" align=center />
+<img  src = ![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/542faaf1-dadb-48c7-b028-cd755ca8a61c) width = "300" height = "200" alt="1" align=center />
 
 ![image](https://github.com/VGuoGavin/Advanced-Robotic-Project2/assets/53364849/96fcb188-2699-42c4-b397-97ff44020691)
 
